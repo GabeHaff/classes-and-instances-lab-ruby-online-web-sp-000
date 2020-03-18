@@ -1,3 +1,4 @@
-def class dog 
-  dog.new= "Kujo"
+ class Dog 
+
 end 
+dog.new= fido 
